@@ -1,0 +1,7 @@
+install below lib :
+
+Name: google-generativeai
+Version: 0.8.5
+gemini-2.5-flash : gemini model
+
+

@@ -1,0 +1,6 @@
+api key : AIzaSyB4nt2z8yaM7gDfSw9wx3M7wRVAKsusI1A
+
+
+
+command : python -m pip install google-generativeai
+pip install flask flask-cors python-dotenv google-generativeai
