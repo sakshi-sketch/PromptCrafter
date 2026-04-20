@@ -1,0 +1,23 @@
+{
+  "email": [
+    "Write a professional email to your manager explaining task progress.",
+    "Draft a polite email requesting clarification on assigned tasks.",
+    "Compose an email updating your manager about project completion.",
+    "Write a formal email explaining delays in work.",
+    "Create a structured weekly update email."
+  ],
+  "machine_learning": [
+    "Explain machine learning engineering in simple terms.",
+    "Describe ML project workflow step-by-step.",
+    "Explain model training and evaluation process.",
+    "Describe role of ML engineer in industry.",
+    "List tools used in ML engineering."
+  ],
+  "resume": [
+    "Generate a resume based on job description.",
+    "Create ATS-friendly resume bullet points.",
+    "Write a professional summary for resume.",
+    "Align resume skills with job role.",
+    "Rewrite resume for better impact."
+  ]
+}
